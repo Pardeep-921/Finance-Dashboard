@@ -1,6 +1,6 @@
 # Sovereign Ledger | Premium Finance Dashboard
 
-A clean, interactive, and high-end finance dashboard built for the Frontend Developer Intern assignment. Designed with a "Sovereign Ledger" aesthetic, featuring a full **Dark/Light Mode** system and smooth, production-grade responsiveness.
+A clean, interactive, and high-end finance dashboard. Designed with a "Sovereign Ledger" aesthetic, featuring a full **Dark/Light Mode** system and smooth, production-grade responsiveness.
 
 ## 🚀 Quick Start
 
